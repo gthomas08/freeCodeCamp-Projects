@@ -14,4 +14,4 @@ Projects that were completed as part of freeCodeCamp curriculum.
 
 ### Certificate
 
-The certificate can be found [here](https://www.freecodecamp.org/certification/gts10/back-end-development-and-apis).
+The certificate can be found [here](https://www.freecodecamp.org/certification/gthomas08/back-end-development-and-apis).
